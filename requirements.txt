@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pypdf2
+python-docx
+langchain
+chromadb
+transformers
+openai
+google-generativeai
+tiktoken
+spacy 
